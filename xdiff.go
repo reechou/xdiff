@@ -42,7 +42,7 @@ const (
 	MMAP_THRESHOLD = 8 * 1024
 
 	// Number of lines to print for previewing file
-	NUM_PREVIEW_LINES = 10
+	NUM_PREVIEW_LINES = 250
 )
 
 // Error Messages
